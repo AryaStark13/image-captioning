@@ -1,3 +1,7 @@
 image_captioning_cleaned_env/
 runs/
 coco_dataset_val_2017_all/
+.vscode/
+.scene_detection/
+train/bert_embedding/bert_test.ipynb
+train/bert_embedding/bert_trial.ipynb
