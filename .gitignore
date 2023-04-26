@@ -5,3 +5,4 @@ coco_dataset_val_2017_all/
 .scene_detection/
 train/bert_embedding/bert_test.ipynb
 train/bert_embedding/bert_trial.ipynb
+train/bert_embedding/wandb/
