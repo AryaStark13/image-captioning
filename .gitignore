@@ -8,3 +8,5 @@ train/bert_embedding/bert_trial.ipynb
 train/bert_embedding/wandb/
 research_paper_latex/
 research_papers/
+data/wordcloud.png
+data/word_counts.txt
